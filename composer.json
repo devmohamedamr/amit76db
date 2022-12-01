@@ -1,0 +1,16 @@
+{
+    "name": "amit76/db",
+    "description": "db",
+    "autoload": {
+        "psr-4": {
+            "Amit76\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "dev.mohamedamr@gmail.com"
+        }
+    ],
+    "require": {}
+}
